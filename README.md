@@ -1,3 +1,3 @@
 # gamehacking
 
-For practicing game hacking
+For practicing game hacking.
